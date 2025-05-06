@@ -118,6 +118,3 @@ if selected_display != "Select Company":
 else:
     # Prompt user to select a company if none is chosen
     st.info("Please select a company to continue.")
-```
-
-Let me know if you want this code converted into a downloadable `.py` file or need help deploying it on Streamlit Cloud.
