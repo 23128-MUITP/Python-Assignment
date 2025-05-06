@@ -1,6 +1,3 @@
-Here's your updated code with the suggested comments added at the appropriate places:
-
-```python
 # Import necessary libraries
 import pandas as pd  # For data handling
 import matplotlib.pyplot as plt  # For static plotting (not used)
